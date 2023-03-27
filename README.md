@@ -2,6 +2,6 @@
 2D Post-apo game inspired by Stardew Valley, with Roguelike and RPG Elements
 
 # Tech
- - Unity ver 
+ - Unity ver 2021.3.21f
 
 # Mechanics
